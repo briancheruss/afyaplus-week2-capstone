@@ -1,0 +1,2 @@
+[console_scripts]
+afyaplus = app.main:main
