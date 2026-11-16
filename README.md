@@ -122,3 +122,17 @@ remote PR, or completed peer review. Do not claim those steps are complete.
 - Chroma persistence does not auto-refresh when manuals change; use `--reindex`.
 - Dependency version ranges are provided; pin exact versions after a successful
   local integration test for reproducible deployment.
+
+
+## Verification Results
+
+The AfyaPlus Week 2 project was tested
+locally using Python 3.12.10.
+
+- Automated tests: 11 passed
+- Python compilation: passed
+- LangChain knowledge retrieval: demonstrated
+- Local Ollama model: tested
+
+The system uses synthetic medical insurance
+documents for educational purposes.
